@@ -1,5 +1,7 @@
 # dup-control
 
+TEST
+
 ## Project setup
 ```
 npm install
